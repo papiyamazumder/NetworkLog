@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\NetworkLog\NetworkLog\bin\Debug\net8.0\NetworkLog.exe
+C:\Projects\C# Projects\NetworkLog\NetworkLog\bin\Debug\net8.0\NetworkLog.deps.json
+C:\Projects\C# Projects\NetworkLog\NetworkLog\bin\Debug\net8.0\NetworkLog.runtimeconfig.json
+C:\Projects\C# Projects\NetworkLog\NetworkLog\bin\Debug\net8.0\NetworkLog.dll
+C:\Projects\C# Projects\NetworkLog\NetworkLog\bin\Debug\net8.0\NetworkLog.pdb
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\NetworkLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\NetworkLog.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\NetworkLog.AssemblyInfo.cs
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\NetworkLog.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\NetworkLog.dll
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\refint\NetworkLog.dll
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\NetworkLog.pdb
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\NetworkLog.genruntimeconfig.cache
+C:\Projects\C# Projects\NetworkLog\NetworkLog\obj\Debug\net8.0\ref\NetworkLog.dll
